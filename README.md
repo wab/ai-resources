@@ -34,6 +34,7 @@ A curated list of Artificial Intelligence Top Resources
 *   **[There's An AI For That (TAAFT)](https://theresanaiforthat.com/)** - A large directory of AI tools for various tasks.
 *   **[Futurepedia](https://www.futurepedia.io/)** - Another comprehensive directory of AI tools.
 *   **[Product Hunt (AI Section)](https://www.producthunt.com/topics/artificial-intelligence)** - Discover new AI products and tools.
+*   **[HOL Plugins](https://hol.org/plugins)** - A directory of AI plugins and MCP servers for coding agents.
 
 
 ## AI Productivity Tools:
